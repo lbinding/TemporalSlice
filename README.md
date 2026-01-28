@@ -9,7 +9,6 @@ TemporalSlice is a model to segment the resection cavity of postoperative T1 ima
 ## Requirements
 
 - **Operating System**: Mac or Linux
-- **Freesurfer**: Version 7.4 or higher
 - **Python**: Installed
 
 ## Installation
